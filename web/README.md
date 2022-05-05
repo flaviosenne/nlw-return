@@ -9,3 +9,7 @@
 # npm i phosphor-react
 
 # npm i @headlessui/react
+
+# npm i -D @tailwindcss/forms
+
+# npm i tailwind-scrollbar
