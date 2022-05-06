@@ -13,3 +13,5 @@
 # npm i -D @tailwindcss/forms
 
 # npm i tailwind-scrollbar
+
+# npm i html2canvas
